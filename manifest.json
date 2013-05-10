@@ -18,6 +18,7 @@
    },
    "name": "__MSG_extName__",
    "options_page": "templates/options.html",
+   "manifest_version": 2,
    "update_url": "http://clients2.google.com/service/update2/crx",
-   "version": "2.5.1025"
+   "version": "2.6.1026"
 }
